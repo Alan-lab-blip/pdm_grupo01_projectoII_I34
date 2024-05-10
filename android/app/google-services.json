@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97303006347",
+    "project_id": "cfmbilheteriaonline",
+    "storage_bucket": "cfmbilheteriaonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97303006347:android:b099f875611b16e279588e",
+        "android_client_info": {
+          "package_name": "com.example.cfmbilheteria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wH26hnyW_4EvdFN6ZBb89-_yCt20btU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
